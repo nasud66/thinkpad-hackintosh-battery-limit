@@ -61,10 +61,14 @@ Battery will:
 
 ## 💡 Practical tip
 
+## 💡 Practical tip
+
 If battery goes above 80%:
 
-→ just unplug charger shortly before 80%  
-→ done 😄  
+→ just briefly unplug the charger slightly below 80%  
+→ you can plug it back immediately  
+
+Charging will not continue because the limit is already reached 😄  
 
 ---
 
