@@ -61,8 +61,6 @@ Battery will:
 
 ## 💡 Practical tip
 
-## 💡 Practical tip
-
 If battery goes above 80%:
 
 → just briefly unplug the charger slightly below 80%  
