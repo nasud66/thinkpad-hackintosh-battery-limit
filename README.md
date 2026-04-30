@@ -1,4 +1,5 @@
-# 💻 ThinkPad Hackintosh Battery Limit (Simple Fix)
+# 💻 ThinkPad Hackintosh Battery Limit (Simple Fix)## ⚠️ Compatibility
+Works on many Lenovo ThinkPads with EC battery control support.
 
 ## ❗ Problem
 Hackintosh (macOS) does not support battery charge limits.
